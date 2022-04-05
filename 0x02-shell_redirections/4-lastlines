@@ -1,0 +1,4 @@
+#!/bin/bash
+cd
+cd ..
+cat etc/passwd | tail -n 10
